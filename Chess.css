@@ -1,0 +1,175 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 602px;
+  height: 602px;
+  border: 2px solid #000;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+}
+
+.container .row1 {
+  display: flex;
+  flex-direction: row;
+  width: 600px;
+  height: 74px;
+  text-align: center;
+}
+
+.container .row2 {
+  display: flex;
+  flex-direction: row;
+  width: 600px;
+  height: 74px;
+  text-align: center;
+}
+
+.container .row3 {
+  display: flex;
+  flex-direction: row;
+  width: 600px;
+  height: 74px;
+  text-align: center;
+}
+
+.container .row4 {
+  display: flex;
+  flex-direction: row;
+  width: 600px;
+  height: 74px;
+  text-align: center;
+}
+
+.container .row5 {
+  display: flex;
+  flex-direction: row;
+  width: 600px;
+  height: 74px;
+  text-align: center;
+}
+.container .row6 {
+  display: flex;
+  flex-direction: row;
+  width: 600px;
+  height: 74px;
+  text-align: center;
+}
+
+.container .row7 {
+  display: flex;
+  flex-direction: row;
+  width: 600px;
+  height: 74px;
+  text-align: center;
+}
+.container .row8 {
+  display: flex;
+  flex-direction: row;
+  width: 600px;
+  height: 74px;
+  text-align: center;
+}
+
+.container .row1 .even {
+  width: 75px;
+  background-color: #000;
+}
+
+.container .row2 .odd {
+  width: 75px;
+  background-color: #000;
+}
+
+.container .row2 .even {
+  width: 75px;
+}
+
+.container .row1 .odd {
+  width: 75px;
+}
+
+.container .row3 .even {
+  width: 75px;
+  background-color: #000;
+}
+
+.container .row3 .odd {
+  width: 75px;
+}
+
+.container .row4 .odd {
+  width: 75px;
+  background-color: #000;
+}
+
+.container .row4 .even {
+  width: 75px;
+}
+
+.container .row5 .even {
+  width: 75px;
+  background-color: #000;
+}
+
+.container .row5 .odd {
+  width: 75px;
+}
+
+.container .row6 .odd {
+  width: 75px;
+  background-color: #000;
+}
+
+.container .row6 .even {
+  width: 75px;
+}
+
+.container .row7 .even {
+  width: 75px;
+  background-color: #000;
+}
+
+.container .row7 .odd {
+  width: 75px;
+}
+
+.container .row8 .even {
+  width: 75px;
+}
+
+.container .row8 .odd {
+  width: 75px;
+  background-color: #000;
+}
+
+.container .img {
+  width: 50px;
+  margin: 20px 10px;
+}
+
+.container .img1 {
+  width: 50px;
+  margin: 10px;
+}
+
+.container .img2{
+    width: 25px;
+    margin: 10px;
+}
+
+.container .img3{
+    width: 35px;
+    margin: 10px;
+}
+
+.container .img4{
+    width: 40px;
+    margin: 10px;
+}
